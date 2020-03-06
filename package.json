@@ -1,0 +1,14 @@
+{
+  "name": "simply-business-workshop",
+  "version": "1.0.0",
+  "description": "a test app to demonstrate New Relic",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daniel fitzgerald <danielfitzgerald@newrelic.com>",
+  "license": "ISC",
+  "dependencies": {
+    "newrelic": "^6.4.2"
+  }
+}
